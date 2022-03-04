@@ -2,4 +2,8 @@
 // Created by mishe on 04/03/2022.
 //
 
-xccv;
+int xccv=0;
+int main()
+{
+
+}
