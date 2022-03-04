@@ -5,5 +5,5 @@
 int xccv=0;
 int main()
 {
-
+int x=0;
 }
